@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando (Graduação) em Ciência de Dados.<br>Estou em transição de carreira. <br>Estou procurando estágio na área de banco de dados e/ou BI.<br>Conhecimento em SQL, Power BI.<br><br><br> 
+Estudando (Graduação) em Ciência de Dados.<br>Estou em transição de carreira. <br>Estou procurando estágio na área de banco de dados e/ou BI.<br>Conhecimento em SQL, Power BI e Python.<br><br><br> 
 
 
 ## 🌐 Socials:
